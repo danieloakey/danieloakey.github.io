@@ -1,6 +1,6 @@
-title: Daniel Oakey's blog
+title: Daniel's Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts on programming, software engineering, and anything else I've
+  Thoughts on programming and software engineering, and anything else I've
   been thinking about.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.danieloakey.net
@@ -11,6 +11,7 @@ permalink: /:title:output_ext
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
