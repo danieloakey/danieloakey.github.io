@@ -2,7 +2,7 @@
 layout: post
 title:  "Want to spread functional programming? Don’t forget the collections"
 date:   2024-02-03 08:02:00 +0000
-categories: fp
+categories: programming fp
 ---
 The benefits of functional programming are often not well communicated, in my opinion. I love this quote from a [paper entitled 'Why Functional Programming Matters'](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf):
 
