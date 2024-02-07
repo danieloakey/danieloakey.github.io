@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Generalists, specialists and what to learn"
+title:  "Generalists, specialists, and what to learn"
 date:   2024-02-07 10:35:00 +0000
 categories: programming learning
 ---
